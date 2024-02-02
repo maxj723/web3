@@ -1,5 +1,5 @@
 # web3
-library of Python scripts to interact with wallets and smart contracts on the Ethereum network
+library of Python and javascript scripts to interact with wallets and smart contracts on the Ethereum network
 
 
 ## balance check
